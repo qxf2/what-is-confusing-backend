@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "sentence":
+        "This is the test data for checking the highlighter for each word in this sentence",
+        "timer": 40
+    },
+    {
+        "id": 2,
+        "sentence":
+        "This is the test data 2 for checking the highlighter for each word from the second sentence",
+        "timer": 70
+    },
+    {
+        "id": 3,
+        "sentence":
+        "This is the test data 3 for checking the highlighter sentence from the third sentence",
+        "timer": 20
+    },
+    {
+        "id": 4,
+        "sentence":
+        "This is the test data of sentence 4 for checking the highlighter for each word in this sentence",
+        "timer": 25
+    },
+    {
+        "id": 5,
+        "sentence":
+        "This is the test data 5 for checking the highlighter for each word from the second sentence",
+        "timer": 42
+    },
+    {
+        "id": 6,
+        "sentence":
+        "This is the test data 6 for checking the highlighter sentence from the third sentence",
+        "timer": 35
+    }
+]
