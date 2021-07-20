@@ -99,7 +99,6 @@ def answered():
         text = req_data['inputText']
         time_spent = req_data['timeSpent']
         user_id = req_data['userId']
-        # answer_id = req_data["ansId"]
 
         answerId = Answers.query.count() + 1
         print(answerId)
